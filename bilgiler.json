@@ -1,2 +1,10 @@
-{ "isim" : <İSMİNİZ>, okuladi: "IZU", "OgrenciNo" : <ÖğrenciNumarası>, "permissions" : [ "admin", "editor", "contributor" ] }
-
+{
+  "isim": "Miraç Yusuf Çalışkan",
+  "okuladi": "IZU",
+  "OgrenciNo": "030119060",
+  "permissions": [
+    "admin",
+    "editor",
+    "contributor"
+  ]
+}
